@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sajjad Ullah</h1>
-<h3 align="center">A passionate FUll Stack Website Developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack Website Developer from Pakistan</h3>
 
 - 🌱 I’m currently learning **full stack web development**
 
-- 💬 Ask me about **ReactJS NextJS NodeJS tailwind chakraui**
+- 💬 Ask me about **ReactJS NextJS NodeJS tailwindcss chakraui**
 
 - 📫 How to reach me **sajjadullah00456@gmail.com**
 
